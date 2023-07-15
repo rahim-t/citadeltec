@@ -1,3 +1,3 @@
 # Citadel Networks
 
-Censure-ship resistent infrastructure for decentralized cooperation
+Censorship-resistant infrastructure for decentralized cooperation
